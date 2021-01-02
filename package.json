@@ -1,0 +1,19 @@
+{
+  "name": "gl-bot-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josesei/gl-bot-api.git"
+  },
+  "author": "Jose Ignacio Carbone",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/josesei/gl-bot-api/issues"
+  },
+  "homepage": "https://github.com/josesei/gl-bot-api#readme"
+}

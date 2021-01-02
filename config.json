@@ -1,0 +1,6 @@
+{
+    "IS_PRODUCTION": false,
+    "PORT": 8081,
+    "DEV_URL": "http://localhost",
+    "PROD_URL": ""
+}
